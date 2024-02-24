@@ -1,0 +1,2 @@
+hello
+deploy shellscript details
